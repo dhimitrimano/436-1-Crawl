@@ -1,4 +1,4 @@
-# 436-1-Crawl
+# Crawl
 
 A program that implements a simple web-crawler in Java.
 
