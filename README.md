@@ -1,6 +1,6 @@
 # Crawl
 
-A program that implements a simple web-crawler in Java.
+A simple web-crawler written in Java.
 
 ### Description
 
